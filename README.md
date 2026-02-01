@@ -45,7 +45,10 @@
 2. OSごとのプラグインフォルダに移動させてください。
 * **Windows**: `C:\Program Files\Common Files\VST3`
 
-
+## 🖥️ システム要件
+- Windows 10/11 (64bit)
+- VST3対応DAW (Abletonで動作確認済み)
+- 4GB RAM以上推奨
 
 
 ---
@@ -69,6 +72,8 @@
 * Visual Studio 2022 (Windows) / Xcode (macOS)
 * C++17 compliant compiler
 
+## 🤝 コミュニティ
+[![X](https://img.shields.io/badge/X-%40kijyoumusic-black?logo=x&logoColor=white)](https://x.com/kijyoumusic)
 ---
 
 ## 📄 License
