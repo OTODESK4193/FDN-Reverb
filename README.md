@@ -37,7 +37,7 @@
 
 最新のビルド済みプラグイン（VST3/AU）は、以下の **Releases** ページからダウンロードしてください。
 
-👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)](https://www.google.com/search?q=https://github.com/YOUR_USER_NAME/YOUR_REPO_NAME/releases)**
+👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)]([https://www.google.com/search?q=https://github.com/YOUR_USER_NAME/YOUR_REPO_NAME/releases](https://github.com/OTODESK4193/FDN-Reverb/releases/tag/v1.0.0)**
 
 ### 🛠 Installation
 
