@@ -6,10 +6,6 @@
 </div>
 
 ---
-
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/NextGenSaturation/total.svg)
-
----
 ## 🚀 Overview
 
 **FDN Reverb** は、16チャンネルのフィードバック・ディレイ・ネットワーク（FDN）を核とした、物理音響シミュレーター兼SFXエフェクト・エンジンです。
@@ -37,7 +33,7 @@
 
 最新のビルド済みプラグイン（VST3/AU）は、以下の **Releases** ページからダウンロードしてください。
 
-👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)]([https://www.google.com/search?q=https://github.com/YOUR_USER_NAME/YOUR_REPO_NAME/releases](https://github.com/OTODESK4193/FDN-Reverb/releases/tag/v1.0.0)**
+👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)](https://github.com/OTODESK4193/FDN-Reverb/releases/tag/v1.0.0)**
 
 ### 🛠 Installation
 
