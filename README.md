@@ -78,5 +78,5 @@
 
 ## 📄 License
 
-詳細は [LICENSE](./LICENCE) ファイルを参照してください。
+詳細は [LICENSE](./LICENSE) ファイルを参照してください。
 ---
