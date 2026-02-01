@@ -47,8 +47,8 @@
 
 操作方法の詳細や、各マテリアルの解説については、以下の公式オンラインマニュアルおよびリファレンスを参照してください。
 
-* 📘 **[FDN Reverb 公式ユーザーマニュアル](https://www.google.com/search?q=./Manual.md)**
-* 📚 **[マテリアル＆パラメータ・リファレンス](https://www.google.com/search?q=./Reference.md)**
+* 📘 **[FDN Reverb 公式ユーザーマニュアル](./Manual.md)**
+* 📚 **[マテリアル＆パラメータ・リファレンス](./Manual.md)**
 
 ---
 
