@@ -35,6 +35,8 @@
 
 👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)](https://github.com/OTODESK4193/FDN-Reverb/releases/tag/v1.0.0)**
 
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/FDN-Reverb/total.svg)
+
 ### 🛠 Installation
 
 1. ダウンロードしたファイルを解凍します。
