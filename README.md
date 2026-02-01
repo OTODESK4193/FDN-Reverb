@@ -1,6 +1,9 @@
 # FDN Reverb
 
-### Advanced 16-Channel Physics-Based Reverb & SFX Engine
+<div align="center">
+  <img src="./Resources/logo.png" width="400" alt="FDN Reverb Logo">
+  <p><i>Advanced 16-Channel Physics-Based Reverb & SFX Engine</i></p>
+</div>
 
 ---
 
