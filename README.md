@@ -7,6 +7,9 @@
 
 ---
 
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/NextGenSaturation/total.svg)
+
+---
 ## 🚀 Overview
 
 **FDN Reverb** は、16チャンネルのフィードバック・ディレイ・ネットワーク（FDN）を核とした、物理音響シミュレーター兼SFXエフェクト・エンジンです。
